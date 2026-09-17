@@ -1,0 +1,19 @@
+[
+  {
+    "query": "How do I get a VAT invoice corrected?",
+    "expected_id": "doc_billing"
+  },
+  {
+    "query": "Can we enable SSO and audit logs?",
+    "expected_id": "doc_security"
+  },
+  {
+    "query": "Send a CSV export to storage every night",
+    "expected_id": "doc_exports"
+  },
+  {
+    "query": "Who owns the customer incident timeline?",
+    "expected_id": "doc_incidents"
+  }
+]
+

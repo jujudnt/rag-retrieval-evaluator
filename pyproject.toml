@@ -1,0 +1,7 @@
+[project]
+name = "rag-retrieval-evaluator"
+version = "0.1.0"
+description = "A small BM25 retrieval evaluator for RAG systems."
+requires-python = ">=3.9"
+authors = [{ name = "Julia Denat" }]
+

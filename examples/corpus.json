@@ -1,0 +1,19 @@
+[
+  {
+    "id": "doc_billing",
+    "text": "Invoices, refunds, VAT numbers and payment issues are handled by the billing team."
+  },
+  {
+    "id": "doc_security",
+    "text": "Security documentation covers SSO, multi-factor authentication, audit logs and role permissions."
+  },
+  {
+    "id": "doc_exports",
+    "text": "Data exports can be scheduled as CSV files and delivered to cloud storage buckets."
+  },
+  {
+    "id": "doc_incidents",
+    "text": "Incidents are tracked with severity, owner, timeline, customer impact and resolution notes."
+  }
+]
+
